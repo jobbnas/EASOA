@@ -104,8 +104,8 @@
           href="CompositionRelationship_693e2d86-07ee-491b-8ad2-c8b69c4380b6.xml#693e2d86-07ee-491b-8ad2-c8b69c4380b6"/>
     </sourceConnections>
     <bounds
-        x="528"
-        y="144"
+        x="456"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -343,7 +343,7 @@
       targetConnections="1a9ffecf-e489-47ff-928b-805f8e6b3c7b">
     <bounds
         x="504"
-        y="576"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
