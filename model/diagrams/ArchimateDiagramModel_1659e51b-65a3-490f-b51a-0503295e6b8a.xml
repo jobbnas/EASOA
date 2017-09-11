@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Isaks vy"
-    id="1659e51b-65a3-490f-b51a-0503295e6b8a"/>
+    id="1659e51b-65a3-490f-b51a-0503295e6b8a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5ebb5d5e-7d5b-4845-a9b5-ef0b03245aee">
+    <bounds
+        x="141"
+        y="166"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_73162416-a04d-40d3-97a0-bdbd2cbe3011.xml#73162416-a04d-40d3-97a0-bdbd2cbe3011"/>
+  </children>
+</archimate:ArchimateDiagramModel>
