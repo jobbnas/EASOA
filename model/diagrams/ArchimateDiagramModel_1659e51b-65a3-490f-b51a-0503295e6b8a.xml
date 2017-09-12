@@ -5,6 +5,30 @@
     id="1659e51b-65a3-490f-b51a-0503295e6b8a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="ff560f1d-2303-4f73-81f1-b6f52affb3b6">
+    <bounds
+        x="972"
+        y="284"
+        width="714"
+        height="316"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_00858ef8-70a5-4e9c-b85a-bfa6c6aaa40f.xml#00858ef8-70a5-4e9c-b85a-bfa6c6aaa40f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1f4b641a-cb99-4d3f-8487-27a9857b172a">
+    <bounds
+        x="192"
+        y="273"
+        width="550"
+        height="336"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_f0414b7f-6c5c-4f7a-a18e-9b6f7380c79f.xml#f0414b7f-6c5c-4f7a-a18e-9b6f7380c79f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="a1c3f923-c1c3-4484-8b88-4cd3c9a925ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
