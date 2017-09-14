@@ -453,9 +453,9 @@
           endX="852"
           endY="-224"/>
       <bendpoints
-          startX="-82"
+          startX="-94"
           startY="352"
-          endX="864"
+          endX="852"
           endY="124"/>
       <bendpoints
           startX="-958"
@@ -1010,9 +1010,9 @@
           endY="200"/>
       <bendpoints
           startX="744"
-          startY="-158"
+          startY="-170"
           endX="-12"
-          endY="200"/>
+          endY="214"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_739887ab-7c57-4f09-8062-371cdf30c0e9.xml#739887ab-7c57-4f09-8062-371cdf30c0e9"/>
