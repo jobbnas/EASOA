@@ -1015,14 +1015,14 @@
         source="990b1a10-6f85-4bfd-a4e6-82247766ca46"
         target="595138a5-10ef-4861-884d-85ef724cfcda">
       <bendpoints
-          startX="-348"
-          startY="10"
-          endX="-720"
-          endY="-494"/>
+          startX="-288"
+          startY="-2"
+          endX="-660"
+          endY="-506"/>
       <bendpoints
-          startX="-336"
+          startX="-300"
           startY="502"
-          endX="-708"
+          endX="-672"
           endY="-2"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
