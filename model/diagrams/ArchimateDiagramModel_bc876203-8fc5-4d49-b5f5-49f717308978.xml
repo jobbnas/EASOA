@@ -428,6 +428,11 @@
         source="015ad6f0-680a-446f-b6c9-5099d38e0650"
         target="5abb9d3f-889d-4055-92bf-da69b33e2ff0">
       <bendpoints
+          startX="108"
+          startY="-3"
+          endX="1116"
+          endY="-201"/>
+      <bendpoints
           startX="36"
           startY="298"
           endX="1284"
@@ -507,6 +512,16 @@
         id="b9ff7f45-f9df-487e-823d-e11342eaedeb"
         source="7d1c767b-c1b8-46b5-b4c6-63b480a82af5"
         target="398056a5-aff4-4b64-91da-b553784235dc">
+      <bendpoints
+          startX="-84"
+          startY="-3"
+          endX="84"
+          endY="-63"/>
+      <bendpoints
+          startX="-84"
+          startY="69"
+          endX="84"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_c230b19f-4484-4dce-9d3f-7f1d984aa516.xml#c230b19f-4484-4dce-9d3f-7f1d984aa516"/>
