@@ -1140,7 +1140,7 @@
           href="AssociationRelationship_179b8b89-f35d-4c7a-9483-a60b3715a254.xml#179b8b89-f35d-4c7a-9483-a60b3715a254"/>
     </sourceConnections>
     <bounds
-        x="864"
+        x="852"
         y="912"
         width="120"
         height="55"/>
@@ -1550,9 +1550,9 @@
           href="RealizationRelationship_7ba558a2-d12c-4632-96ab-d62ae9195c80.xml#7ba558a2-d12c-4632-96ab-d62ae9195c80"/>
     </sourceConnections>
     <bounds
-        x="995"
+        x="983"
         y="912"
-        width="86"
+        width="98"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
