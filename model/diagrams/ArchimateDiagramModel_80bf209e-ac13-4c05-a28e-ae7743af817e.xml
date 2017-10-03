@@ -99,10 +99,10 @@
           source="5baa9967-9f43-433d-9df5-28ce3c5b780c"
           target="0afa52ba-2709-4661-bc86-acf2c4eadb1d">
         <bendpoints
-            startX="96"
-            startY="-12"
-            endX="-96"
-            endY="117"/>
+            startX="132"
+            startY="-23"
+            endX="-156"
+            endY="129"/>
         <bendpoints
             startX="132"
             startY="-143"

@@ -1539,4 +1539,37 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_d430caa2-ebcd-4566-a0bf-985933daa86c.xml#d430caa2-ebcd-4566-a0bf-985933daa86c"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="12f6606a-39d6-4714-bd45-de75f65ba2c0"
+      textAlignment="1"
+      content="Ska kunna ändras i Webservice">
+    <bounds
+        x="211"
+        y="804"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3182224a-62b6-4841-8de6-0e7362b27dbc"
+      textAlignment="1"
+      content="HÄR SKA VI HA EN SERVICE SOM SKÖTER HELA PROCESSEN">
+    <bounds
+        x="959"
+        y="643"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ebd0be66-e6ea-400f-96f6-454790b53e76"
+      textAlignment="1"
+      content="XML- TRADE">
+    <bounds
+        x="1039"
+        y="779"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
