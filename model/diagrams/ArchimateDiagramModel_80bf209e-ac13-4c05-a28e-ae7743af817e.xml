@@ -64,9 +64,9 @@
             endY="-267"/>
         <bendpoints
             startX="-156"
-            startY="253"
+            startY="241"
             endX="-588"
-            endY="-3"/>
+            endY="-15"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_9a33c7b1-895a-4af1-a01f-02728f69a496.xml#9a33c7b1-895a-4af1-a01f-02728f69a496"/>
@@ -181,7 +181,7 @@
       <bounds
           x="240"
           y="24"
-          width="145"
+          width="157"
           height="82"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -210,7 +210,7 @@
             href="AccessRelationship_284569d0-cdbf-4fa6-a334-87d58431957a.xml#284569d0-cdbf-4fa6-a334-87d58431957a"/>
       </sourceConnections>
       <bounds
-          x="528"
+          x="516"
           y="24"
           width="157"
           height="82"/>
@@ -281,9 +281,9 @@
       </sourceConnections>
       <bounds
           x="732"
-          y="30"
-          width="145"
-          height="70"/>
+          y="24"
+          width="157"
+          height="82"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_61efca5e-8576-41ca-be60-3c3fd82da8f5.xml#61efca5e-8576-41ca-be60-3c3fd82da8f5"/>
@@ -660,9 +660,9 @@
         target="14ea13e4-2229-41f4-b6c4-903efa30c60b">
       <bendpoints
           startX="1"
-          startY="-183"
+          startY="-159"
           endX="-552"
-          endY="-15"/>
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_5bbe3a1f-b645-42db-a6bd-ea3bfa2d0a62.xml#5bbe3a1f-b645-42db-a6bd-ea3bfa2d0a62"/>
@@ -690,7 +690,7 @@
           href="TriggeringRelationship_b0056b00-c212-428f-acaf-df6762067fb2.xml#b0056b00-c212-428f-acaf-df6762067fb2"/>
     </sourceConnections>
     <bounds
-        x="203"
+        x="191"
         y="420"
         width="120"
         height="55"/>
@@ -712,7 +712,7 @@
           href="TriggeringRelationship_16b610f5-f042-49c4-90d5-67ec4434e02f.xml#16b610f5-f042-49c4-90d5-67ec4434e02f"/>
     </sourceConnections>
     <bounds
-        x="347"
+        x="335"
         y="420"
         width="120"
         height="55"/>
@@ -734,7 +734,7 @@
           href="ServingRelationship_e647dc40-c32b-42b3-8971-56b99bfb3c5c.xml#e647dc40-c32b-42b3-8971-56b99bfb3c5c"/>
     </sourceConnections>
     <bounds
-        x="480"
+        x="468"
         y="420"
         width="120"
         height="55"/>
