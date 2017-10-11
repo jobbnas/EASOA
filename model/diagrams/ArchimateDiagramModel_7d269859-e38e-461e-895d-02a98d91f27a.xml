@@ -86,7 +86,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="1f22ed9d-f6fa-4f9f-8e09-f92efb1514a8">
+      id="1f22ed9d-f6fa-4f9f-8e09-f92efb1514a8"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="fe009801-bf98-4a84-9be1-8a3d44ecd216"
@@ -1536,6 +1537,11 @@
         id="089cebb1-1426-4cde-baca-ccaf95751227"
         source="b14065be-887e-4e71-a6d8-b000b4761c6a"
         target="052452f4-d330-4ec1-b2a3-a0dfbff0f4bf">
+      <bendpoints
+          startX="-108"
+          startY="-339"
+          endX="258"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_fd294e11-33c3-484d-a22c-7bc5ac373552.xml#fd294e11-33c3-484d-a22c-7bc5ac373552"/>
