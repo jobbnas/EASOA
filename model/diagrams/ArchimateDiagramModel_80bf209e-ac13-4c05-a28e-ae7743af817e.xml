@@ -202,9 +202,9 @@
           target="14ea13e4-2229-41f4-b6c4-903efa30c60b">
         <bendpoints
             startX="42"
-            startY="235"
+            startY="247"
             endX="276"
-            endY="-27"/>
+            endY="-15"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_284569d0-cdbf-4fa6-a334-87d58431957a.xml#284569d0-cdbf-4fa6-a334-87d58431957a"/>
@@ -230,8 +230,8 @@
         <bendpoints
             startX="-114"
             startY="31"
-            endX="360"
-            endY="-243"/>
+            endX="336"
+            endY="-231"/>
         <bendpoints
             startX="-114"
             startY="271"
