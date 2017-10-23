@@ -1328,17 +1328,17 @@
         source="2028614e-92a1-4632-828c-d083e096b52b"
         target="afca4aff-dd65-45b9-8d9a-1e009a289950">
       <bendpoints
-          startX="-48"
-          startY="399"
-          endX="-240"
-          endY="9"/>
+          startX="-60"
+          startY="326"
+          endX="-248"
+          endY="14"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_264170b6-00cf-4062-999d-f18c5a1ea3a2.xml#264170b6-00cf-4062-999d-f18c5a1ea3a2"/>
     </sourceConnections>
     <bounds
-        x="188"
-        y="277"
+        x="192"
+        y="355"
         width="120"
         height="55"/>
     <archimateElement
